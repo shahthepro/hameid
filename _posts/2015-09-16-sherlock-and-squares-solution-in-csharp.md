@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/09/16/sherlock-and-squares-solution-in-csharp/
 permalink: /sherlock-and-squares-solution-in-csharp/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - 'C#'
   - Code Snippet

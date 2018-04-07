@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/09/12/adding-preloader-to-your-website/
 permalink: /adding-preloader-to-your-website/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - CSS
   - JavaScript

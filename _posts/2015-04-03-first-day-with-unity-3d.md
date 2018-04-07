@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/04/03/first-day-with-unity-3d/
 permalink: /first-day-with-unity-3d/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - 2D Game
   - Game Development

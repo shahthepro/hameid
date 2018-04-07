@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2017/04/09/whats-up-with-my-life/
 permalink: /whats-up-with-my-life/
 categories:
-  - Uncategorized
+  - Personal
 ---
 > ### Normal is the most abnormal word {#normalisthemostabnormalword}
 

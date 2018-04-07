@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2016/06/29/introducing-code/
 permalink: /introducing-code/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - App
   - Code Snippet

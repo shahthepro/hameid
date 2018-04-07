@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/07/28/permuting-strings-characters-intial-position/
 permalink: /permuting-strings-characters-intial-position/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - C
   - Code Snippet

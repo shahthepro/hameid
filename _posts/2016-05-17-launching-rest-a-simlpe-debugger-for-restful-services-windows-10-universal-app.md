@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2016/05/17/launching-rest-a-simlpe-debugger-for-restful-services-windows-10-universal-app/
 permalink: /launching-rest-a-simlpe-debugger-for-restful-services-windows-10-universal-app/
 categories:
-  - Uncategorized
+  - Annoucements
 tags:
   - App
   - Projects

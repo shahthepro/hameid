@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/08/11/pointers-2k15-now-available-on-windows-store-2/
 permalink: /pointers-2k15-now-available-on-windows-store-2/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - App
   - Pointer 2K15

@@ -3,11 +3,9 @@ id: 26
 title: '#Code – Privacy Policy'
 date: 2017-06-04T05:04:13+00:00
 author: Shah
-layout: post
+layout: page
 guid: http://hameid.net/2017/06/04/code-privacy-policy/
 permalink: /code-privacy-policy/
-categories:
-  - Uncategorized
 ---
 This Privacy Policy is meant to help you understand what information we collect, why we collect it and how we use that information. By using the app #Code, (the &#8220;App&#8221;) you accept the terms contained in this Privacy Policy.
 

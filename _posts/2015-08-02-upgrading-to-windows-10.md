@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/08/02/upgrading-to-windows-10/
 permalink: /upgrading-to-windows-10/
 categories:
-  - Uncategorized
+  - Tutorials
 tags:
   - Microsoft
   - Windows

@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/04/05/2d-scrolling-and-looping-backgrounds-in-unity/
 permalink: /2d-scrolling-and-looping-backgrounds-in-unity/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - 2D Game
   - 'C#'

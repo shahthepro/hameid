@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/10/30/windows-password-breaking/
 permalink: /windows-password-breaking/
 categories:
-  - Uncategorized
+  - Hacking
 tags:
   - Password Breaking
   - Windows

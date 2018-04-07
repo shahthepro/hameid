@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/08/10/pointers-2k15-official-app-windows-phone/
 permalink: /pointers-2k15-official-app-windows-phone/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - App
   - Pointer 2K15

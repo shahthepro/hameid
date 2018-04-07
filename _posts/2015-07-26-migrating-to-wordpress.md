@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/07/26/migrating-to-wordpress/
 permalink: /migrating-to-wordpress/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - Blog
   - PHP

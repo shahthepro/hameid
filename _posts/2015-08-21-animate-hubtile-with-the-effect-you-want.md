@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/08/21/animate-hubtile-with-the-effect-you-want/
 permalink: /animate-hubtile-with-the-effect-you-want/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - 'C#'
   - HubTile

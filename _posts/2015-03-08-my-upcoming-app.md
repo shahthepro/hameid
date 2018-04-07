@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/03/08/my-upcoming-app/
 permalink: /my-upcoming-app/
 categories:
-  - Uncategorized
+  - Projects
 tags:
   - App
   - Arduino

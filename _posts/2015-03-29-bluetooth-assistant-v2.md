@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/03/29/bluetooth-assistant-v2/
 permalink: /bluetooth-assistant-v2/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - App
   - Arduino

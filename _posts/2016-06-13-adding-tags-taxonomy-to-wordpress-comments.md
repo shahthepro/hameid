@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2016/06/13/adding-tags-taxonomy-to-wordpress-comments/
 permalink: /adding-tags-taxonomy-to-wordpress-comments/
 categories:
-  - Uncategorized
+  - Programming
 tags:
   - Code Snippet
   - PHP

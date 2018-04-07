@@ -7,7 +7,7 @@ layout: post
 guid: http://hameid.net/2015/08/27/migrating-to-outpowerhosting/
 permalink: /migrating-to-outpowerhosting/
 categories:
-  - Uncategorized
+  - Announcements
 tags:
   - Hosting
   - Wordpress
