@@ -1,0 +1,14 @@
+title: Shahul Hameed
+description: >-
+  A programming freak.
+
+baseurl: ""
+url: ""
+
+twitter_username: shahthepro
+github_username:  shahthepro
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
