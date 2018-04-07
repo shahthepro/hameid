@@ -2,7 +2,7 @@ title: Shahul Hameed
 description: >-
   A programming freak.
 
-baseurl: "/hameid"
+baseurl: ""
 url: ""
 
 twitter_username: shahthepro
@@ -12,3 +12,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages: 
+ - about.md
