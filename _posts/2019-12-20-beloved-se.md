@@ -1,6 +1,6 @@
 ---
 title: There's blood on my hands
-date: 2019-12-20T00:07:33+05:30
+date: 2019-12-20T07:03:33+05:30
 author: Shah
 layout: post
 permalink: /beloved-se/
