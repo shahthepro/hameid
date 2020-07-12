@@ -12,7 +12,7 @@ My first presence on social network dates more than a decade back to the _Orkut 
 
 I still remember creating multiple accounts on forums like _Hostbidder_ & _VBForums_ and getting banned, again and again, for being a nasty troll. _VBForums_, _Planet Source Code_ and _SourceForge_ were my _StackOverflow_ back when I started programming circa 2005-2006.
 
-To be honest, I enjoyed spending time on community forums that I did on social networks. And I still do. I have even tried creating social networks and community forums.
+To be honest, I enjoyed spending time on community forums more than I did on social networks. And I still do. I have even tried creating social networks and community forums.
 
 # Flash-forward to now
 Until recently I have had account on almost all major social networks and tech forums. But I've been inactive on almost all of them for a while now.
