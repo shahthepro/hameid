@@ -15,6 +15,7 @@ tags:
   - Game Development
   - Programming
   - Unity 3D
+published: false
 ---
 Recently, I started to learn game development with Unity. So, I started working on a simple infinite side-scrolling game. For this, I searched online for various ways to scroll and loop the background.
 

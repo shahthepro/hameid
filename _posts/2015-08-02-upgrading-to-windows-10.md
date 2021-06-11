@@ -12,6 +12,7 @@ tags:
   - Microsoft
   - Windows
   - Windows 10
+published: false
 ---
 If you happen to have reserved your copy of [Windows 10](/tag/windows-10/) and haven’t received any notification of the update, You might have to wait a few days or even weeks before upgrading to Windows 10.
 

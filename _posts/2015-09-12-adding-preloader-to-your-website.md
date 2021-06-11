@@ -14,6 +14,7 @@ tags:
   - jQuery
   - Preloader
   - Website Development
+published: false
 ---
 Believe it or not, Adding preloader to websites has become a new web design trend. Almost all the latest themes on [Themeforest](http://themeforest.net/?ref=shah1012) come with preloaders. Adding preloader will display a loading animation until the page has been completely loaded.
 

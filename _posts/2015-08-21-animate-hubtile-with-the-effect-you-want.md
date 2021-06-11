@@ -15,6 +15,7 @@ tags:
   - Windows Phone
   - Windows Phone Toolkit
   - XAML
+published: false
 ---
 HubTile is one of the many components that are a part of [Windows Phone Toolkit](https://phone.codeplex.com/) package. Basically, HubTile is an In-App Tile that can have Title, Message, Notification and Image.
 

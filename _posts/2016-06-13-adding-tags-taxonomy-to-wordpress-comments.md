@@ -13,6 +13,7 @@ tags:
   - PHP
   - Programming
   - Wordpress
+published: false
 ---
 In some edge cases, You may want to add tags or other taxonomies to comments of your WordPress website. Adding taxonomy to comments is not natively supported in WordPress. But that doesn't mean you cannot do it. 
 

@@ -12,6 +12,7 @@ tags:
   - Windows 10
   - Windows Dev Center
   - Windows Phone
+published: false
 ---
 If you had used the Windows Phone Dev Center before it was unified with Windows Dev Center, you probably know that unpublishing an app was a piece of cake. You select an app from your Dashboard and click on **“Hide app in store“**. That’s it; The app will no longer be available for download unless you republish it.
 

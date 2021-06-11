@@ -15,6 +15,7 @@ tags:
   - MySQL
   - SQL
   - UNIX
+published: false
 ---
 Being a website owner, It is really important to have a recent backup of your website. [cPanel](https://en.wikipedia.org/wiki/CPanel), the most popular web hosting control panel, provides a powerful _Full Backup_ feature. Generating a full website backup with cPanel’s _Full Backup_ can be simple but not completely automated.
 
